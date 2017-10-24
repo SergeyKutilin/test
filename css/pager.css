@@ -1,0 +1,18 @@
+ul.yiiPager{
+font-size:14px;
+	line-height:17px;
+    font-family:'webfontregular';
+	margin:0px;
+}
+ul.yiiPager li.selected > a{
+	background:#d9e7ff;
+}
+.list-view .pager {
+    margin: 5px 0 19px 0;    
+}
+.pager .previous>a, .pager .previous>span {
+    float: none;
+}
+.pager .next>a, .pager .next>span {
+    float: none;
+}
